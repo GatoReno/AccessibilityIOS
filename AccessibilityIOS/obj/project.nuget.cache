@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lr8CFll2CaahEs8NNa1ixtnmZnO4e7yAaTZCb8s2TPB2sW3Y02c6zBD5u4VdXDjASC82A0uCCLS28VWrJTwsgg==",
+  "success": true,
+  "projectFilePath": "/Users/dmn/Projects/AccessibilityIOS/AccessibilityIOS/AccessibilityIOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/dmn/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}

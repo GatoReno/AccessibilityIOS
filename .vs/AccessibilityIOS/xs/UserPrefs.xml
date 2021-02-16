@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{5FFF410F-D515-4E05-BD4B-73861626B8D0}|Default">
+  <MonoDevelop.Ide.ItemProperties.AccessibilityIOS FirstBuild="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9CBC5EB8-8FA9-47F2-9856-F81C8613B8D1" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AccessibilityIOS" expanded="True">
+            <Node name="AccessibilityIOS" expanded="True">
+              <Node name="GettingStarted" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
